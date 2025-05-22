@@ -27,8 +27,7 @@
 ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/victor-rodrigues-da-rocha-a320301a7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/victorrochaaudaces/victorrochaaudaces/blob/output/github-contribution-grid-snake.svg)
- 
+  
+   ![Status](./profile-3d-contrib/profile-night-green.svg)
+  
 </div>
